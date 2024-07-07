@@ -13,4 +13,4 @@ export const removeLastContact = async () => {
     }
 };
 
-removeLastContact();
+await removeLastContact();
